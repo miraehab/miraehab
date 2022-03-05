@@ -29,3 +29,5 @@
 
 ## My Github statistics 🚀:
 ![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraehab&theme=tokyonight&layout=compact)
+
+![Mira's github stats](https://github-readme-stats.vercel.app/api?username=miraehab&show_icons=true&theme=tokyonight)
