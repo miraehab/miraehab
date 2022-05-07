@@ -29,8 +29,9 @@
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miraehab/)
 
 ## My Github statistics 🚀:
-![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraehab&theme=tokyonight&layout=compact)
 
 ![Mira's github stats](https://github-readme-stats.vercel.app/api?username=miraehab&show_icons=true&theme=tokyonight)
 
 ![Mira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=miraehab&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraehab&theme=tokyonight&layout=compact)
