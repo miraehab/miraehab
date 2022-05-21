@@ -16,10 +16,13 @@
   <img src="https://img.icons8.com/office/40/000000/react.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
  </p>
  
  ## Connect with me 🙋🏻‍♀️:
