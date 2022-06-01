@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30"></h2>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Mira's+Github+!)](https://git.io/typing-svg)
