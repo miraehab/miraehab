@@ -6,7 +6,7 @@
 
 - 🏫 From Cairo, Egypt
 - 👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University
-- Interested in Problem solving, Web development, AI and cloud computing
+- Interested in Problem solving, Data Science, AI, Web development and cloud computing
 
 ## Languages and Tools 🛠:
 <p>
