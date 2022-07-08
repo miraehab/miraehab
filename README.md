@@ -36,8 +36,8 @@
 
 ## My Github statistics 🚀:
 
-![Mira's github stats](https://github-readme-stats.vercel.app/api?username=miraehab&show_icons=true&theme=tokyonight)
+![Mira's github stats](https://github-readme-stats.vercel.app/api?username=miraehab&show_icons=true&theme=material-palenight)
 
-![Mira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=miraehab&theme=tokyonight&include_all_commits=true&count_private=true)
+![Mira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=miraehab&theme=material-palenight&include_all_commits=true&count_private=true)
 
-![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraehab&theme=tokyonight&layout=compact)
+![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraehab&theme=material-palenight&layout=compact)
