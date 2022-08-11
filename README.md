@@ -7,6 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Mira's+Github+!)](https://git.io/typing-svg)
 
+
 - 🏫 From Cairo, Egypt
 - 👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University
 - Interested in Problem solving, Data Science, AI, Web development and cloud computing
