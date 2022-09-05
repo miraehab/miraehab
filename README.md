@@ -36,6 +36,7 @@
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mira.ehab@outlook.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miraehab)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miraehab/)
+[![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/miraehab)
 
 ## My Github statistics 🚀:
 
