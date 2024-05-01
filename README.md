@@ -9,8 +9,9 @@
 
 
 - 🏫 From Cairo, Egypt
+- Software Engineering Intern at Dell Technologies
 - 👩🏻‍💻 Student at Faculty of Computers and Artificial Intelligence - Cairo University
-- Interested in Problem solving, Data Science, AI, Web development and cloud computing
+- Interested in Problem solving, Data Science, Web development, Devops and cloud computing
 
 
 ## Languages and Tools 🛠:
